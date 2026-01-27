@@ -1,2 +1,14 @@
-# PRODIGY_CS_Task01
-A Python program implementing the Caesar Cipher technique to encrypt and decrypt text using a shift value. This task helped in understanding basic cryptography, string manipulation, and classical substitution ciphers.
+# PRODIGY_CS_Task01 
+## Task Name
+Caesar Cipher Implementation
+
+## Description
+This task focuses on understanding basic cryptography concepts by implementing
+the Caesar Cipher using Python.
+
+## Tools Used
+- Python
+- VS Code
+
+## Outcome
+Successfully implemented encryption and decryption using Caesar Cipher.
